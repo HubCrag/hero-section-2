@@ -1,6 +1,6 @@
-## Hubcrag Background Lines Effect
+## Hubcrag Hero Section
 
-### Frontend dependencies
+### [Watch it on youtube](https://youtu.be/BWERHipzmuA)
 
 
 ### Setup demo project
